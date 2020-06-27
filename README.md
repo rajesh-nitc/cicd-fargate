@@ -1,7 +1,7 @@
 # CICD-fargate
 Single Microservice
 
-## Prerequistes
+## Prerequisites
 
 1. CodeCommit Repo
 2. ECR Repo
