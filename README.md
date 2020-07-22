@@ -1,5 +1,5 @@
 # CICD-fargate
-Single Microservice
+CICD setup for a single Nodejs microservice for ECS Fargate environment
 
 ## Prerequisites
 
